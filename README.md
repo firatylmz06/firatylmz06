@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @firatylmz06<br>
+👋 Hi, I’m Fırat<br>
 👀 I’m interested in Python<br>
 🌱 I’m currently learning DevOps<br>
 📫 How to reach me iletisim@firatyilmaz.com
